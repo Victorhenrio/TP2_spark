@@ -1,28 +1,4 @@
-
 {
-  "name": "schema project",
-  "csvOptions": {
-    "header": "false",
-    "inferSchema": "false",
-    "delimiter": ","
-  },
-  "fields":
-  [
-    {
-      "name": "movie_name",
-      "type": "String"
-    },
-    {
-      "name": "number_of_views",
-      "type": "Integer"
-    },
-    {
-      "name": "mark",
-      "type": "Double"
-    },
-    {
-      "name": "principal_actor",
-      "type": "String"
-    }
-  ]
+  "date": "06112020",
+  "fillWithDaysAgo": 2
 }
