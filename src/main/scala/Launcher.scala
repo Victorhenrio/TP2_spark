@@ -20,7 +20,6 @@ import scala.reflect.io.Path
 
 object Launcher {
 
-
   def main(args: Array[String]): Unit = {
 
     val transformField = udf((date: String) => {
