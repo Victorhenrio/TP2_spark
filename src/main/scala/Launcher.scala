@@ -70,6 +70,9 @@ object Launcher {
         new_df.groupBy("date").count().show()
 
       }
+      else {
+        println("Ce fichier contient deja 8 transactions")
+      }
 
       temp = dfwithdate
     }
