@@ -24,10 +24,6 @@ import org.apache.spark.sql.Row
 import scala.reflect.io.Path
 
 
-
-
-
-
 object Launcher {
   def main(args: Array[String]): Unit = {
     //Add Scopt command line

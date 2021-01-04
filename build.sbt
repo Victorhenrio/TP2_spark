@@ -1,4 +1,3 @@
-
 name := "gdpr"
 
 version := "0.1"
